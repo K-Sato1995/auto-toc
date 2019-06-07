@@ -1,3 +1,7 @@
-console.log("Hey World? Sup!!");
+const Greetings = "Hey World? Sup!!";
 
-export const KSato = "Yo";
+function Sum(a, b) {
+  return a + b;
+}
+
+module.exports = { Greetings, Sum };
