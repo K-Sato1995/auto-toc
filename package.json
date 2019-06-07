@@ -1,6 +1,6 @@
 {
   "name": "@sato0130/auto-toc",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Automatically create the table of contents.",
   "license": "MIT",
   "main": "index.js",
